@@ -1,0 +1,10 @@
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\bin\Debug\cadastrarestoque.exe.config
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\bin\Debug\cadastrarestoque.exe
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\bin\Debug\cadastrarestoque.pdb
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.csproj.AssemblyReference.cache
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.frmCadastrarEstoque.resources
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.Properties.Resources.resources
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.csproj.GenerateResource.cache
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.csproj.CoreCompileInputs.cache
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.exe
+C:\Users\nathally.plima\Documents\cadastrarestoque\cadastrarestoque\obj\Debug\cadastrarestoque.pdb
